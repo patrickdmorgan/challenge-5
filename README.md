@@ -14,7 +14,7 @@
 
 # Repository link
 
-https://github.com/patrickdmorgan/challenge-5/new/main?readme=1
+https://github.com/patrickdmorgan/challenge-5/
 
 # Web link
 
